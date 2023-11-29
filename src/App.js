@@ -9,7 +9,7 @@ import StudentsWork from './Components/StudentsWork/StudentsWork';
 
 const App = () => {
   return (
-    <div basename="nifa">
+    <div basename="/nifa">
       <Navbar/>
       <Home/>
       <OnlineClasses/>
